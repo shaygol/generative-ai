@@ -45,7 +45,9 @@ Foundational textbooks and courses:
 
 - [`notes/`](notes/) — my own summaries, written in my words (one file per topic).
 - [`exercises/`](exercises/) — my homework solutions and experiments, one folder per exercise.
-  - [`exercises/team-project/ideas.md`](exercises/team-project/ideas.md) — final-project idea pool and triage.
+  - [`exercises/team-project/face2voice/`](https://github.com/shaygol/face2voice) — **the final project** (private team repo, added as a git submodule).
+    After cloning, run `git submodule update --init`, then `cd` into it and `git switch main`. From then on, treat it as a normal repo (`git pull`, commit, `git push` from inside it).
+  - [`exercises/team-project/ideas.md`](exercises/team-project/ideas.md) — final-project idea pool from before the project was chosen (archive).
 
 ---
 
