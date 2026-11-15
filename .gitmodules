@@ -1,0 +1,3 @@
+[submodule "exercises/team-project/face2voice"]
+	path = exercises/team-project/face2voice
+	url = https://github.com/shaygol/face2voice.git

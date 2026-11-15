@@ -2,7 +2,7 @@
 
 Candidate ideas for the course's final project. The project is done in teams of 3–4, and GANs are not allowed. The team has remote access to the BGU HPC cluster.
 
-**Status:** brainstorm. No idea has been chosen yet.
+**Status:** archived. The chosen project is **face2voice** (face image + text → speech), which is not in this pool. It lives in its own repo: [shaygol/face2voice](https://github.com/shaygol/face2voice), also available here as the `face2voice/` submodule.
 
 Numbers in parentheses, such as (5+11), are the IDs of the original ideas. Ideas that overlapped are merged into one entry. Lecture numbers refer to the [syllabus table](../../README.md#syllabus).
 
